@@ -1,0 +1,15 @@
+class Solution {
+    public boolean isPalindrome(String s) {
+        boolean palin = false;
+        String b = s.replaceAll("[^a-zA-Z0-9]","");
+        String c = "";
+        String small = b.toLowerCase();
+        for(int i=small.length()-1;i>=0;i--){
+            c = c+small.charAt(i);
+        }
+        if(small.equals(c)){
+            palin = true;
+        }
+        return palin;
+    }
+}
