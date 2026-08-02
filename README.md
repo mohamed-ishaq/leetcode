@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mohamed-ishaq/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohamed-ishaq/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mohamed-ishaq/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/mohamed-ishaq/leetcode/tree/master/0500-keyboard-row) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mohamed-ishaq/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mohamed-ishaq/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/mohamed-ishaq/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/mohamed-ishaq/leetcode/tree/master/0500-keyboard-row) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohamed-ishaq/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mohamed-ishaq/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mohamed-ishaq/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/mohamed-ishaq/leetcode/tree/master/0500-keyboard-row) |
 ## Binary Search
 |  |
 | ------- |
