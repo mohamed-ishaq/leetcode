@@ -160,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/mohamed-ishaq/leetcode/tree/master/0506-relative-ranks) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/mohamed-ishaq/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
