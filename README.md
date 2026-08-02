@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mohamed-ishaq/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohamed-ishaq/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohamed-ishaq/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/mohamed-ishaq/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mohamed-ishaq/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mohamed-ishaq/leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/mohamed-ishaq/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1389-create-target-array-in-the-given-order](https://github.com/mohamed-ishaq/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Number Theory
 |  |
 | ------- |
