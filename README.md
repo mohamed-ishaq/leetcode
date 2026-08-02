@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mohamed-ishaq/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/mohamed-ishaq/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mohamed-ishaq/leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/mohamed-ishaq/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/mohamed-ishaq/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mohamed-ishaq/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohamed-ishaq/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mohamed-ishaq/leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
