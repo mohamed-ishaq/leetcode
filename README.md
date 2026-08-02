@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/mohamed-ishaq/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohamed-ishaq/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/mohamed-ishaq/leetcode/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/mohamed-ishaq/leetcode/tree/master/0896-monotonic-array) |
 ## Binary Search
 |  |
 | ------- |
