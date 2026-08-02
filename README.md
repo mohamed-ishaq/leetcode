@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mohamed-ishaq/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/mohamed-ishaq/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/mohamed-ishaq/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mohamed-ishaq/leetcode/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/mohamed-ishaq/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
