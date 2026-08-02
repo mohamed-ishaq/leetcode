@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mohamed-ishaq/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohamed-ishaq/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohamed-ishaq/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/mohamed-ishaq/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -71,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/mohamed-ishaq/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
