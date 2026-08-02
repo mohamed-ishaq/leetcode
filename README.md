@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mohamed-ishaq/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/mohamed-ishaq/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mohamed-ishaq/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mohamed-ishaq/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mohamed-ishaq/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/mohamed-ishaq/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohamed-ishaq/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mohamed-ishaq/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Math
 |  |
 | ------- |
