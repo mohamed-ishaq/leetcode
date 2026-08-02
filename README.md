@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohamed-ishaq/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohamed-ishaq/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/mohamed-ishaq/leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/mohamed-ishaq/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mohamed-ishaq/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohamed-ishaq/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/mohamed-ishaq/leetcode/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/mohamed-ishaq/leetcode/tree/master/0338-counting-bits) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/mohamed-ishaq/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
