@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mohamed-ishaq/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mohamed-ishaq/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/mohamed-ishaq/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1051-height-checker](https://github.com/mohamed-ishaq/leetcode/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mohamed-ishaq/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/mohamed-ishaq/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/mohamed-ishaq/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/mohamed-ishaq/leetcode/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/mohamed-ishaq/leetcode/tree/master/0881-boats-to-save-people) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mohamed-ishaq/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
