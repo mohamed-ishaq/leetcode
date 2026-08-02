@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mohamed-ishaq/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/mohamed-ishaq/leetcode/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/mohamed-ishaq/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohamed-ishaq/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/mohamed-ishaq/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
