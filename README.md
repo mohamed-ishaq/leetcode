@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mohamed-ishaq/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamed-ishaq/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/mohamed-ishaq/leetcode/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/mohamed-ishaq/leetcode/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/mohamed-ishaq/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/mohamed-ishaq/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/mohamed-ishaq/leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/mohamed-ishaq/leetcode/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
 | ------- |
