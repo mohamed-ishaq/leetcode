@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mohamed-ishaq/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mohamed-ishaq/leetcode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mohamed-ishaq/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/mohamed-ishaq/leetcode/tree/master/0766-toeplitz-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/mohamed-ishaq/leetcode/tree/master/0584-find-customer-referee) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/mohamed-ishaq/leetcode/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
