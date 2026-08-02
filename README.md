@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohamed-ishaq/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/mohamed-ishaq/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamed-ishaq/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/mohamed-ishaq/leetcode/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mohamed-ishaq/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/mohamed-ishaq/leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamed-ishaq/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/mohamed-ishaq/leetcode/tree/master/0575-distribute-candies) |
 ## Binary Search
 |  |
 | ------- |
